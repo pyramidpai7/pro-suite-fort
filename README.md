@@ -1,9 +1,5 @@
 # Fortnite Toolkit — Advanced C++ tool
 
-![release image](assets/release.png)
-
-## Overview
-
 Fortnite Pro Suite — silent aimbot, multi-mode ESP, ragebot modules, and skin changer. Regular updates, low latency, and performance-tuned for competitive play. Download demo & patch notes.
 
 > ⚠️ This project is provided **for educational and research purposes only**. Using runtime modification tools in live, competitive, or commercial environments may violate terms of service and can result in account sanctions. Do not use these tools to gain unfair advantage in online games.
