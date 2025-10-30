@@ -1,2 +1,3 @@
 # Quick Thoughts
 Summarize velocity trend
+Remove unused environment configuration files
